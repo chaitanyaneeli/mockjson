@@ -1,5 +1,5 @@
 {
-  "Men": [
+  "men": [
   {
     "id": 201,
     "name": "Swiss Watch",
@@ -182,7 +182,7 @@
     "imageUrl": "https://images.unsplash.com/photo-1612817159623-0399784fd0ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80"
   }
 ],
-"posts": [
+"women": [
    {
       "id": 1,
       "title": "hello"
