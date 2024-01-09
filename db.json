@@ -1,19 +1,205 @@
 {
   "products": {
     "men": [
-      {"productId": 1, "productName": "Men's Product 1"},
-      {"productId": 2, "productName": "Men's Product 2"},
-      {"productId": 3, "productName": "Men's Product 3"}
+      {
+        "id": 51,
+        "title": "half sleeves T shirts",
+        "description": "Many store is creating new designs and trend every month and every year. Daraz.pk have a beautiful range of men fashion brands",
+        "price": 23,
+        "discountPercentage": 12.76,
+        "rating": 4.26,
+        "stock": 132,
+        "brand": "Vintage Apparel",
+        "category": "mens-shirts",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/51/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/51/1.png"
+      },
+      {
+        "id": 52,
+        "title": "FREE FIRE T Shirt",
+        "description": "quality and professional print - It doesn't just look high quality, it is high quality.",
+        "price": 10,
+        "discountPercentage": 14.72,
+        "rating": 4.52,
+        "stock": 128,
+        "brand": "FREE FIRE",
+        "category": "mens-shirts",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/52/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/52/1.png"
+      },
+      {
+        "id": 53,
+        "title": "printed high quality T shirts",
+        "description": "Brand: vintage Apparel ,Export quality",
+        "price": 35,
+        "discountPercentage": 7.54,
+        "rating": 4.89,
+        "stock": 6,
+        "brand": "Vintage Apparel",
+        "category": "mens-shirts",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/53/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/53/1.webp"
+      },
+      {
+        "id": 54,
+        "title": "Pubg Printed Graphic T-Shirt",
+        "description": "Product Description Features: 100% Ultra soft Polyester Jersey. Vibrant & colorful printing on front. Feels soft as cotton without ever cracking",
+        "price": 46,
+        "discountPercentage": 16.44,
+        "rating": 4.62,
+        "stock": 136,
+        "brand": "The Warehouse",
+        "category": "mens-shirts",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/54/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/54/1.jpg"
+      },
+      {
+        "id": 55,
+        "title": "Money Heist Printed Summer T Shirts",
+        "description": "Fabric Jercy, Size: M & L Wear Stylish Dual Stiched",
+        "price": 66,
+        "discountPercentage": 15.97,
+        "rating": 4.9,
+        "stock": 122,
+        "brand": "The Warehouse",
+        "category": "mens-shirts",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/55/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/55/1.jpg"
+      }
     ],
     "women": [
-      {"productId": 4, "productName": "Women's Product 1"},
-      {"productId": 5, "productName": "Women's Product 2"},
-      {"productId": 6, "productName": "Women's Product 3"}
+      {
+        "id": 41,
+        "title": "NIGHT SUIT",
+        "description": "NIGHT SUIT RED MICKY MOUSE..  For Girls. Fantastic Suits.",
+        "price": 55,
+        "discountPercentage": 15.05,
+        "rating": 4.65,
+        "stock": 21,
+        "brand": "RED MICKY MOUSE..",
+        "category": "womens-dresses",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/41/thumbnail.webp",
+        "images": "https://cdn.dummyjson.com/product-images/41/1.jpg"
+      },
+      {
+        "id": 42,
+        "title": "Stiched Kurta plus trouser",
+        "description": "FABRIC: LILEIN CHEST: 21 LENGHT: 37 TROUSER: (38) :ARABIC LILEIN",
+        "price": 80,
+        "discountPercentage": 15.37,
+        "rating": 4.05,
+        "stock": 148,
+        "brand": "Digital Printed",
+        "category": "womens-dresses",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/42/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/42/1.png"
+      },
+      {
+        "id": 43,
+        "title": "frock gold printed",
+        "description": "Ghazi fabric long frock gold printed ready to wear stitched collection (G992)",
+        "price": 600,
+        "discountPercentage": 15.55,
+        "rating": 4.31,
+        "stock": 150,
+        "brand": "Ghazi Fabric",
+        "category": "womens-dresses",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/43/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/43/1.jpg"
+      },
+      {
+        "id": 44,
+        "title": "Ladies Multicolored Dress",
+        "description": "This classy shirt for women gives you a gorgeous look on everyday wear and specially for semi-casual wears.",
+        "price": 79,
+        "discountPercentage": 16.88,
+        "rating": 4.03,
+        "stock": 2,
+        "brand": "Ghazi Fabric",
+        "category": "womens-dresses",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/44/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/44/1.jpg"
+      },
+      {
+        "id": 45,
+        "title": "Malai Maxi Dress",
+        "description": "Ready to wear, Unique design according to modern standard fashion, Best fitting ,Imported stuff",
+        "price": 50,
+        "discountPercentage": 5.07,
+        "rating": 4.67,
+        "stock": 96,
+        "brand": "IELGY",
+        "category": "womens-dresses",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/45/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/45/1.jpg"
+      }
     ],
-    "uni": [
-      {"productId": 7, "productName": "Unisex Product 1"},
-      {"productId": 8, "productName": "Unisex Product 2"},
-      {"productId": 9, "productName": "Unisex Product 3"}
+    "mobiles": [
+      {
+        "id": 1,
+        "title": "iPhone 9",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/1/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/1/1.jpg"
+      },
+      {
+        "id": 2,
+        "title": "iPhone X",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 899,
+        "discountPercentage": 17.94,
+        "rating": 4.44,
+        "stock": 34,
+        "brand": "Apple",
+        "category": "smartphones",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/2/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/2/1.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Samsung Universe 9",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 1249,
+        "discountPercentage": 15.46,
+        "rating": 4.09,
+        "stock": 36,
+        "brand": "Samsung",
+        "category": "smartphones",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/3/1.jpg"
+      },
+      {
+        "id": 4,
+        "title": "OPPOF19",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 280,
+        "discountPercentage": 17.91,
+        "rating": 4.3,
+        "stock": 123,
+        "brand": "OPPO",
+        "category": "smartphones",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/4/1.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Huawei P30",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "price": 499,
+        "discountPercentage": 10.58,
+        "rating": 4.09,
+        "stock": 32,
+        "brand": "Huawei",
+        "category": "smartphones",
+        "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
+        "images": "https://cdn.dummyjson.com/product-images/5/1.jpg"
+      }
     ]
   }
 }
